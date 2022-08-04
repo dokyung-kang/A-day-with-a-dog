@@ -1,0 +1,34 @@
+[
+	{
+		"type" : "background",
+		"img" : "content/PNG/마무리/on.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "샤워를 마치니"
+	},
+	{
+		"type" : "Narration",
+		"content" : "벌써 밤이네요"
+	},
+	{
+		"type" : "Narration",
+		"content" : "강아지는 벌써 밥을 먹고 잠을 자고있어요."
+	},
+	{
+		"type" : "Narration",
+		"content" : "오늘 하루 도와줘서 고마워요."
+	},
+	{
+		"type" : "background",
+		"img" : "content/PNG/마무리/off.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "여러분도 잘자요!"
+	},
+	{
+		"type" : "background",
+		"img" : "content/PNG/마무리/off.png"
+	}
+]

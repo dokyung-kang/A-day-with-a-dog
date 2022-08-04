@@ -1,0 +1,30 @@
+[
+	{
+		"type" : "background",
+		"img" : "content/PNG/설명/day1.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "평화로운 어느 날,"
+	},
+	{
+		"type" : "Narration",
+		"content" : "사랑스러운 강아지가 산책을 가고싶어 하네요."
+	},
+	{
+		"type" : "background",
+		"img" : "content/PNG/설명/day2.png"
+	},
+	{
+		"type" : "Narration",
+		"content" : "\"멍멍!\""
+	},
+	{
+		"type" : "Narration",
+		"content" : "마침 날씨도 좋으니"
+	},
+	{
+		"type" : "Narration",
+		"content" : "같이 산책을 다녀오도록 합시다!"
+	}
+]
